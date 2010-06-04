@@ -1,0 +1,37 @@
+ChatChart - ASCII Graph Layout & Drawing
+
+This is a package of various crappy ruby code which generally
+revolves around ASCII drawing, graph layout, and physics simulation
+
+Copyright(c) 2009 by Christopher Abad
+
+EMAIL: aempirei@gmail.com
+AIM: ambientempire
+IRC: aempirei on irc.freenode.net
+
+http://blog.twentygoto10.com/
+http://www.twentygoto10.com/
+http://www.the-mathclub.net/
+
+this code is licensed under the "don't be a retarded asshole" license.
+if i don't like how you use this software i can tell you t
+
+== RUNME ==
+
+check out the demos in the ./demos directory
+
+demo-automatic.rb - a simple automatic graph layout sample driver
+demo-animated.rb  - an animated automatic graph layout driver using somewhat of
+                    a molecular physics model
+demo-physics.rb   - gravity/mass physics demo
+demo-simple.rb    - simple random graph layout and ascii drawing driver
+
+== USEME ==
+
+chatchart.rb        - ASCII drawing module
+point.rb            - 2D point class
+particle.rb         - particle class
+
+== HOWTO ==
+
+read the samples for now. but i promise i will include more information soon.
